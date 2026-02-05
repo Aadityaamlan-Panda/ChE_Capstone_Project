@@ -115,7 +115,7 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 * Cooling water loop optimised to minimise freshwater consumption
 * Sensitivity analysis conducted for profit maximisation
 
-![Heat exchanger network (HEN) diagram](images/hen.png)
+![Heat exchanger network (HEN) diagram](images/HEN.png)
 ![Sensitivity plot1](images/sensi1.png)
 ![Sensitivity plot2](images/sensi2.png)
 ![Sensitivity plot3](images/sensi3.png)
@@ -191,3 +191,4 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 ---
 
 ✨ *This repository documents the complete academic capstone journey — from conceptual process selection to final techno‑economic evaluation.*
+
