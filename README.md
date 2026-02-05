@@ -179,6 +179,10 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 ---
 
 ## 📚 Literary References
+* **[A Study of the Esterification of Benzoic Acid with Methyl Alcohol Using Isotopic
+Oxygen](https://pubs.acs.org/doi/10.1021/ja01277a028)**: Irving Roberts and Harold C. Urey, J. Am. Chem. Soc. 1938, 60, 10, 2391–2393
+* **[The solubilities of benzoic acid and its nitro-derivatives, 3-nitro and 3,5-dinitrobenzoic acids](https://www.researchgate.net/publication/356654643_The_solubilities_of_benzoic_acid_and_its_nitro-derivatives_3-nitro_and_35-dinitrobenzoic_acids)**: Xiang Zhang, Jian Chen, Jinzhong Hu, Min Liu, Zhuoer Cai, Yang Xu and Baiwang Sun, 2021, Journal of Chemical Research
+* **[Patent: CONTINUOUS PROCESS FOR PREPARING BENZOIC ACID ESTERS](https://patents.google.com/patent/US6235924B1/en)**:  Wesley Wayne McConnell, Bruce Edward Stanhope, Franz Joseph Luxem, 2001, United States Patent, McConell et al.
 
 ---
 
@@ -191,4 +195,5 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 ---
 
 ✨ *This repository documents the complete academic capstone journey — from conceptual process selection to final techno‑economic evaluation.*
+
 
