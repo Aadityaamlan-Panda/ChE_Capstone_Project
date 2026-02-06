@@ -172,7 +172,6 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 
 * Kinetic parameter estimation
 * Rigorous reactor modelling
-* Centralised cooling utility design
 * Dynamic simulation and process control studies
 
 ---
@@ -193,4 +192,5 @@ Kushagra Tiwari · Saurabh Yadav · Snehil Tripathi · Tushar Verma
 ✨ *This repository documents the complete academic capstone journey — from conceptual process selection to final techno-economic evaluation.*
 
 ---
+
 
