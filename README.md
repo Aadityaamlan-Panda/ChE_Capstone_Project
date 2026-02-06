@@ -1,3 +1,4 @@
+---
 
 # 🌸 Production of Methyl Benzoate via Esterification
 
@@ -16,9 +17,13 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 
 🔁 The project evolves systematically from **process selection and thermodynamic validation** to **flowsheet development, separation sequencing, energy integration, cogeneration, and economic optimisation**, culminating in a **technically feasible and economically attractive plant design**.
 
+<p align="center">
+  <img src="images/BFD.png" alt="Block Flow Diagram (BFD)" width="750">
+</p>
 
-![Block Flow Diagram (BFD)](images/BFD.png)
-![Overall Process Flow Diagram (PFD)](images/PFD.png)
+<p align="center">
+  <img src="images/PFD.png" alt="Overall Process Flow Diagram (PFD)" width="780">
+</p>
 
 ---
 
@@ -35,7 +40,9 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 * Liquid-phase operation
 * Excess methanol used to shift equilibrium toward ester formation
 
-![Reaction mechanism schematic](images/rxn-mech.png)
+<p align="center">
+  <img src="images/rxn-mech.png" alt="Reaction mechanism schematic" width="550">
+</p>
 
 ---
 
@@ -62,11 +69,12 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 * ⭐ **UNIQUAC selected** based on best phase-equilibrium fitting
 * Azeotrope analysis confirmed separation feasibility
 
-
-![VLE plots](images/VLE1.png)
-![VLE plots](images/VLE2.png)
-![VLE plots](images/VLE3.png)
-![VLE plots](images/VLE4.png)
+<p align="center">
+  <img src="images/VLE1.png" alt="VLE plot" width="620">
+  <img src="images/VLE2.png" alt="VLE plot" width="620">
+  <img src="images/VLE3.png" alt="VLE plot" width="620">
+  <img src="images/VLE4.png" alt="VLE plot" width="620">
+</p>
 
 ---
 
@@ -81,9 +89,11 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 * Energy vs recovery trade-offs evaluated
 * 🏆 **Method 2 selected** due to lower peak reboiler duty and improved utility integration
 
-![separation flowsheets](images/sep1.png)
-![Alternative separation flowsheets](images/sep2.png)
-![Distillation column configuration diagrams](images/dist.png)
+<p align="center">
+  <img src="images/sep1.png" alt="Separation flowsheet" width="750">
+  <img src="images/sep2.png" alt="Alternative separation flowsheet" width="750">
+  <img src="images/dist.png" alt="Distillation column configuration" width="750">
+</p>
 
 ---
 
@@ -95,13 +105,14 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
   * Four distillation columns
   * Multiple heat exchangers
 * Cooling water loop designed with recycle and makeup streams
-* ⚡ **Cogeneration (Rankine cycle)** integrated for on-site power generation with a cooling water loop
+* ⚡ **Cogeneration (Rankine cycle)** integrated for on-site power generation
 * Column-wise mass and energy balances validated
 * Practical challenges documented (kinetics data, utility loop closure)
 
-![Full Aspen flowsheet](images/fullasp.png)
-![Cogeneration cycle schematic](images/cogen.png)
-![Cooling water loop schematic](images/cwl.png)
+<p align="center">
+  <img src="images/cogen.png" alt="Cogeneration cycle schematic" width="700">
+  <img src="images/cwl.png" alt="Cooling water loop schematic" width="700">
+</p>
 
 ---
 
@@ -115,10 +126,15 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 * Cooling water loop optimised to minimise freshwater consumption
 * Sensitivity analysis conducted for profit maximisation
 
-![Heat exchanger network (HEN) diagram](images/HEN.png)
-![Sensitivity plot1](images/sensi1.png)
-![Sensitivity plot2](images/sensi2.png)
-![Sensitivity plot3](images/sensi3.png)
+<p align="center">
+  <img src="images/HEN.png" alt="Heat Exchanger Network" width="780">
+</p>
+
+<p align="center">
+  <img src="images/sensi1.png" alt="Sensitivity plot" width="620">
+  <img src="images/sensi2.png" alt="Sensitivity plot" width="620">
+  <img src="images/sensi3.png" alt="Sensitivity plot" width="620">
+</p>
 
 ---
 
@@ -130,7 +146,9 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 * Cogeneration-based utility integration
 * Aspen Plus simulation supported by manual design validation
 
-![full with HEN](images/final.png)
+<p align="center">
+  <img src="images/final.png" alt="Final integrated flowsheet with HEN" width="780">
+</p>
 
 ---
 
@@ -145,12 +163,12 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 
 ## ⚠️ Limitations & Future Scope
 
-⚠️ Limitations:
+**Limitations:**
 
 * Lack of detailed reaction kinetics limited reactor–HEN coupling accuracy
 * Certain Aspen design settings could not be fully replicated manually
 
-🔮 Future work may include:
+**Future work:**
 
 * Kinetic parameter estimation
 * Rigorous reactor modelling
@@ -161,41 +179,18 @@ Methyl Benzoate is a high-value aromatic ester widely used in **fragrances, flav
 
 ## 🎬 Endterm Presentation
 
-▶ Watch Endterm Presentation video [here](https://drive.google.com/file/d/1FrWMKWWbhJXB8A-jbmuGOKWoEXzA9vmA/view?usp=sharing)
+▶ [Watch Endterm Presentation video](https://drive.google.com/file/d/1FrWMKWWbhJXB8A-jbmuGOKWoEXzA9vmA/view)
 
 ---
 
 ## 👥 Team Members (Group 4)
 
-* Aaditya Amlan Panda
-* Abhijit Dalai
-* Adarsh Pal
-* Akash Kumar Gupta
-* Kushagra Tiwari
-* Saurabh Yadav
-* Snehil Tripathi
-* Tushar Verma
+Aaditya Amlan Panda · Abhijit Dalai · Adarsh Pal · Akash Kumar Gupta ·
+Kushagra Tiwari · Saurabh Yadav · Snehil Tripathi · Tushar Verma
 
 ---
 
-## 📚 Literary References
-* **[A Study of the Esterification of Benzoic Acid with Methyl Alcohol Using Isotopic
-Oxygen](https://pubs.acs.org/doi/10.1021/ja01277a028)**: Irving Roberts and Harold C. Urey, J. Am. Chem. Soc. 1938, 60, 10, 2391–2393
-* **[The solubilities of benzoic acid and its nitro-derivatives, 3-nitro and 3,5-dinitrobenzoic acids](https://www.researchgate.net/publication/356654643_The_solubilities_of_benzoic_acid_and_its_nitro-derivatives_3-nitro_and_35-dinitrobenzoic_acids)**: Xiang Zhang, Jian Chen, Jinzhong Hu, Min Liu, Zhuoer Cai, Yang Xu and Baiwang Sun, 2021, Journal of Chemical Research
-* **[Patent: CONTINUOUS PROCESS FOR PREPARING BENZOIC ACID ESTERS](https://patents.google.com/patent/US6235924B1/en)**:  Wesley Wayne McConnell, Bruce Edward Stanhope, Franz Joseph Luxem, 2001, United States Patent, McConell et al.
+✨ *This repository documents the complete academic capstone journey — from conceptual process selection to final techno-economic evaluation.*
 
 ---
-
-## 🛠 Tools & Software
-
-🧪 Aspen Plus (Simulation & EDR)
-📐 Excel (Design calculations)
-💻 Fortran (Economic sensitivity analysis)
-
----
-
-✨ *This repository documents the complete academic capstone journey — from conceptual process selection to final techno‑economic evaluation.*
-
-
-
-
+Just say 👍
