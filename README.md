@@ -193,4 +193,4 @@ Kushagra Tiwari · Saurabh Yadav · Snehil Tripathi · Tushar Verma
 ✨ *This repository documents the complete academic capstone journey — from conceptual process selection to final techno-economic evaluation.*
 
 ---
-Just say 👍
+
