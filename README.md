@@ -298,16 +298,16 @@ The process is economically viable under realistic market assumptions (methanol 
 
 ## 👥 Team Members (Group 4)
 
-| Member | Roll No. | Key Contributions |
-|--------|----------|------------------|
-| Aaditya Amlan Panda | 220007 | Block diagram, cogeneration integration |
-| Abhijit Dalai | 220030 | Flowsheeting, method selection, cooling water loop |
-| Adarsh Pal | 220054 | Block diagram, distillation column optimisation |
-| Akash Kumar Gupta | 220095 | Flowsheeting, distillation column optimisation |
-| Kushagra Tiwari | 220574 | Thermodynamic analysis, cogeneration integration |
-| Saurabh Yadav | 220991 | Market & profitability analysis, cogeneration |
-| Snehil Tripathi | 221071 | Market & profitability analysis, distillation optimisation |
-| Tushar Verma | 221147 | Thermodynamic analysis, cooling water loop |
+| Member | Roll No. |
+|--------|----------|
+| Aaditya Amlan Panda | 220007 |
+| Abhijit Dalai | 220030 |
+| Adarsh Pal | 220054 |
+| Akash Kumar Gupta | 220095 |
+| Kushagra Tiwari | 220574 |
+| Saurabh Yadav | 220991 |
+| Snehil Tripathi | 221071 |
+| Tushar Verma | 221147 |
 
 ---
 
